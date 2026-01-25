@@ -1,0 +1,18 @@
+{
+  "name": "douinc-claude-code-plugins",
+  "owner": {
+    "name": "douinc",
+    "email": "team@dou.inc"
+  },
+  "plugins": [
+    {
+      "name": "joan-plugin",
+      "source": "./plugins/joan-plugin",
+      "description": "Integrate Joan, a workspace-based knowledge and task management service, into a Claude Code project",
+      "version": "0.1.0",
+      "author": {
+        "name": "douinc"
+      }
+    }
+  ]
+}
