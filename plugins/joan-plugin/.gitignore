@@ -1,0 +1,6 @@
+# Local development
+.DS_Store
+*.log
+
+# Plugin local settings (user-specific)
+.claude/*.local.md

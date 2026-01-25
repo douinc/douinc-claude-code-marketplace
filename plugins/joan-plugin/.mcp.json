@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "joan": {
+      "type": "http",
+      "url": "https://joan.land/mcp/joan"
+    }
+  }
+}

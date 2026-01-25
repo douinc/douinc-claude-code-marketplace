@@ -1,0 +1,5 @@
+{
+  "name": "joan-plugin",
+  "version": "0.1.0",
+  "description": "Integrate Joan, a workspace-based knowledge and task management service, into a Claude Code project"
+}
