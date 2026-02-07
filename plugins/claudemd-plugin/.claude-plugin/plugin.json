@@ -1,0 +1,5 @@
+{
+  "name": "claudemd-plugin",
+  "version": "1.0.0",
+  "description": "Review and optimize CLAUDE.md files following context engineering best practices"
+}
